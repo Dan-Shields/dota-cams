@@ -1,0 +1,20 @@
+{
+  "name": "dota-cams",
+  "version": "1.0.0",
+  "description": "dota-cams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Shields <d@shieldsuk.me>",
+  "license": "ISC",
+  "dependencies": {
+    "clone": "^2.1.2",
+    "config": "^2.0.1",
+    "dota2-gsi": "^1.0.2",
+    "obs-websocket-js": "^1.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.7.0"
+  }
+}

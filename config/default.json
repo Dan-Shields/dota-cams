@@ -1,0 +1,11 @@
+{
+	"d2gsi": {
+		"ip": "localhost",
+		"port": 9091,
+		"tokens": ""
+	},
+	"obs": {
+		"address": "localhost:4444",
+		"password": ""
+	}
+  }
