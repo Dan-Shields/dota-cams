@@ -1,3 +1,7 @@
+# Dota 2 Cams
+#### Synchronise camera/image sources in OBS with the currently selected player in a Dota 2 match.
+
+## Usage
 1. Download the latest release: https://github.com/Dan-Shields/dota-cams/releases
 2. Install and enable OBS Websocket - https://obsproject.com/forum/resources/obs-websocket-remote-control-of-obs-studio-made-easy.466/
 3. Create camera sources in OBS named with the SteamID64 of the player it shows
